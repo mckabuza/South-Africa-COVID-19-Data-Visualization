@@ -1,11 +1,11 @@
 Province,Infections,Recoveries,Deaths
-Eastern Cape,310,15,5
-Free State,105,74,5
-Gauteng,1170,545,7
-KwaZulu-Natal,639,151,25
-Limpopo,27,21,1
-Mpumalanga,23,14,0
+Gauteng,1281,843,8
+Western Cape,1413,236,30
+KwaZulu-Natal,841,241,29
+Eastern Cape,480,19,6
+Free State,111,76,5
+Limpopo,29,24,1
 North West,25,13,0
-Northern Cape,18,16,0
-Unallocated,43,0,0
-Western Cape,940,216,22
+Mpumalanga,24,15,0
+Northern Cape,16,6,0
+Unallocated,0,0,0
