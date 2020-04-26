@@ -49,7 +49,7 @@
 			$(
 				'<div id="titleBar">' +
 					'<a href="#sidebar" class="toggle"></a>' +
-					'<span class="title">' + $('#logo').html() + '</span>' +
+					'<span class="title">' + $('Hello').html() + '</span>' +
 				'</div>'
 			)
 				.appendTo($body);
