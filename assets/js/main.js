@@ -44,13 +44,13 @@
 				})
 				.trigger('resize');
 		*/
-
+		/*
 		// Title Bar.
 			$(
 				'<div id="titleBar">' +
 					'<a href="#sidebar" class="toggle"></a>' +
 					'<span class="title">' + $('#logo').html() + '</span>' +
-					'<h1><a href='#' id="logo">HELLO</a></h1>' +
+				//	'<h1><a href='#' id="logo">HELLO</a></h1>' +
 				'</div>'
 			)
 				.appendTo($body);
@@ -67,5 +67,5 @@
 					target: $body,
 					visibleClass: 'sidebar-visible'
 				});
-
+		*/
 })(jQuery);
